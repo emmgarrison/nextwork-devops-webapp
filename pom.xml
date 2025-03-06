@@ -11,7 +11,7 @@
   <!-- JUnit 5 dependencies -->
   <dependency>
     <groupId>org.junit.jupiter</groupId>
-    <artifactId>junit-jupiter-api</artifactId>
+    <artifactId>junit-jupiter-engine</artifactId>
     <version>5.8.1</version> <!-- Replace with the latest stable version -->
     <scope>test</scope>
   </dependency>
@@ -33,3 +33,4 @@
   </plugins>
   <finalName>nextwork-web-project</finalName>
 </build>
+</project>
